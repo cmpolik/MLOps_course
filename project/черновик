@@ -1,2 +1,26 @@
 CRISP DM - стандарт как с бизнес задачи дойти до ML продукта
 TDSP
+
+	Managing Enviroment
+python -m venv /path/to/new/virtual/environment - для того чтобы там установить ту версию питона которое нам нужно например чтобы запустить проект на питон который не последняя версия или не та версия что у тебя на компе
+venv
+virtualenv
+poetry
+conda miniconda
+
+	Managing dependencies - управления зависимостями
+pip 
+poetry			<- возможно иммено его нужно уст
+pip-tools
+Pipfile
+conda 
+
+	Modules and packaging
+python package structure
+build system
+
+pyproject.toml !!
+
+CLI - command line interface
+
+
